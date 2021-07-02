@@ -1,13 +1,17 @@
 import React, { Component } from "react";
-import Cabecalho from "./components/cabecalho";
 import './assets/App.css';
 import './assets/index.css';
+import './components/Header/Header';
+import MyHeader from "./components/Header/Header";
 
 class App extends Component{
   render(){
     return(
-      <Cabecalho/>
-      
+      <div className="Header">
+        <h1>Luísa Reis</h1>
+        <MyHeader Nav="Home"/>
+        <MyHeader Nav="Contato"/>
+      </div>
     )
   }
 }
