@@ -6,21 +6,11 @@
 
 a{
     display:flex;
-    flex-direction: row;
-    flex-wrap: wrap;
     flex-basis: auto;
-    justify-content: space-around;
     text-transform: uppercase;
-    flex: 3;
     text-decoration: none;
     color:black;
-}
+    flex: 1;
+    align-items: center;
 
-a{
-    color:black;
-    text-decoration: none;
-}
-
-a:hover{
-    color:teal
 }
