@@ -1,2 +1,2 @@
-import MyHeader from "./Header"
-export default MyHeader;
+import Header from "./header"
+export default Header;
