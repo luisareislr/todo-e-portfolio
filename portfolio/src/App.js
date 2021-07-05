@@ -18,7 +18,7 @@ class App extends Component{
         favoritos são ouvir musica e ler :)"/>
        <Accordion
        title="Conquistas pessoais"
-       content="Fiquei em 2º lugar no Programa Solução Tecnológicas KM-23 em 2019, quando realizei um treinamento de Design Thinking durante o processo. No começo de 2020, participei de uma mentoria de Design - Taqtile"/>
+       content="Conquistei em 2º lugar no Programa Solução Tecnológicas KM-23 em 2019, quando realizei um treinamento de Design Thinking durante o processo. No começo de 2020, participei de uma mentoria de Design - Taqtile"/>
         <Footer />
       </>
     )
