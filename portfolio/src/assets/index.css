@@ -7,4 +7,7 @@
 body{
   background-color:rgb(255, 252, 244);
 }
-
+main{
+  width: 70%;
+  margin: 0 auto;
+}

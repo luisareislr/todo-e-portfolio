@@ -1,2 +1,1 @@
-import Conteudo from "./conteudo"
-export default Conteudo;
+export * from "./conteudo"
